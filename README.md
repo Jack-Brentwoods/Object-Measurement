@@ -1,2 +1,2 @@
 # Object-Measurement
-For industrial dimension measurement.
+This is my first project of Sciencetific Research, dimension measurement
